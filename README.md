@@ -50,6 +50,6 @@ I'm Ruben, a developer from Germany.
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenaeg" alt="rubenaeg" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubenaeg&theme=onedark&no-bg=true&no-frame=true&theme=discord&title=PullRequest,Commit,Multilanguage,Followers" alt="rubenaeg" /></a> </p>
 
 </div>
