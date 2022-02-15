@@ -8,7 +8,7 @@ I'm Ruben, a developer from Germany.
 - 📫 How to reach me:
   - :email: Email: businesss@aegerter.tech
   - <p align="left"> <a href="https://twitter.com/ruben_aeg" target="blank"><img src="https://img.shields.io/twitter/follow/ruben_aeg?logo=twitter&style=for-the-badge" alt="ruben_aeg" /></a> </p>
-- 🌱 Learning about **Neovim, Lua, Mobile Game development**
+- 🌱 Learning about **Generative Art, Neovim, Lua**
 
 ### Languages I learn
 
